@@ -1,6 +1,6 @@
 PublicBody:
   label: Public body
   plural: Public bodies
-  icon: fa-building
+  icon: fa-group
   extends: Organization
   fuzzy: true
