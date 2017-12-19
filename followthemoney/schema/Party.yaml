@@ -1,7 +1,7 @@
 Party:
   label: "Party"
   extends: Interest
-  icon: fa-birthday-cake
+  icon: fa-gears
   fuzzy: false
   properties:
     party: 
